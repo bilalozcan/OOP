@@ -1,0 +1,311 @@
+﻿<?xml version="1.0"?>
+<Araclar>
+    <Arac>
+        <Turu>Otobus</Turu>
+        <Plaka>15SH475</Plaka>
+        <Suruculer>
+            <Surucu>
+                <Adi>Ahmet Kaya</Adi>
+                <Yasi>36</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Sinan Hephep</Adi>
+                <Yasi>40</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yolcular>
+            <Yolcu>
+                <Adi>Fatma Saygin</Adi>
+                <BinisNoktasi>Denizli</BinisNoktasi>
+                <InisNoktasi>Ankara</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>Zafer Kirgili</Adi>
+                <BinisNoktasi>Istanbul</BinisNoktasi>
+                <InisNoktasi>Burdur</InisNoktasi>
+            </Yolcu>
+            <Yolcu>
+                <Adi>Zeliha Sayar</Adi>
+                <BinisNoktasi>Kayseri</BinisNoktasi>
+                <InisNoktasi>Malatya</InisNoktasi>
+            </Yolcu>
+        </Yolcular>
+    </Arac>
+    <Arac>
+        <Turu>Kamyon</Turu>
+        <Plaka>40YH899</Plaka>
+        <OzluSoz>Hayatimi yazsam, duble yol olur</OzluSoz>
+        <Suruculer>
+            <Surucu>
+                <Adi>Fehmi Sayginer</Adi>
+                <Yasi>58</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yukler>
+            <Yuk>
+                <Icerik>Tugla</Icerik>
+                <Agirlik>50</Agirlik>
+                <Hacim>60</Hacim>
+                <Alici>Murat Karaveliogullari</Alici>
+                <BinisNoktasi>Tokat</BinisNoktasi>
+                <InisNoktasi>Antalya</InisNoktasi>
+            </Yuk>
+        </Yukler>
+    </Arac>
+    <Arac>
+        <Turu>Kamyon</Turu>
+        <Plaka>07BP025</Plaka>
+        <OzluSoz>Bir omur gidelim dedin de mazot mu yok dedik?</OzluSoz>
+        <Suruculer>
+            <Surucu>
+                <Adi>Ibrahim Durmus</Adi>
+                <Yasi>41</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+            <Surucu>
+                <Adi>Bekir Satilmis</Adi>
+                <Yasi>45</Yasi>
+                <EhliyetSinifi>E</EhliyetSinifi>
+            </Surucu>
+        </Suruculer>
+        <Yukler>
+            <Yuk>
+                <Icerik>Kereste</Icerik>
+                <Agirlik>45</Agirlik>
+                <Hacim>80</Hacim>
+                <Alici>Mahmut Karaaslan</Alici>
+                <BinisNoktasi>Burdur</BinisNoktasi>
+                <InisNoktasi>Giresun</InisNoktasi>
+            </Yuk>
+        </Yukler>
+    </Arac>
+    <Arac>
+      <Turu>Otobus</Turu>
+      <Plaka>32YT777</Plaka>
+      <Suruculer>
+        <Surucu>
+          <Adi>Mehmet Saymaz</Adi>
+          <Yasi>39</Yasi>
+          <EhliyetSinifi>E</EhliyetSinifi>
+        </Surucu>
+      </Suruculer>
+      <Yolcular>
+        <Yolcu>
+          <Adi>Sinan Kiraz</Adi>
+          <BinisNoktasi>Bursa</BinisNoktasi>
+          <InisNoktasi>Ardahan</InisNoktasi>
+        </Yolcu>
+        <Yolcu>
+          <Adi>Gulfem Kutuk</Adi>
+          <BinisNoktasi>Ankara</BinisNoktasi>
+          <InisNoktasi>Ardahan</InisNoktasi>
+        </Yolcu>
+        <Yolcu>
+          <Adi>Melisa Sahin</Adi>
+          <BinisNoktasi>Istanbul</BinisNoktasi>
+          <InisNoktasi>Ankara</InisNoktasi>
+        </Yolcu>
+        <Yolcu>
+          <Adi>Sultan Nur Ozen</Adi>
+          <BinisNoktasi>Bursa</BinisNoktasi>
+          <InisNoktasi>Ardahan</InisNoktasi>
+        </Yolcu>
+        <Yolcu>
+          <Adi>Gulumser Yilmaz</Adi>
+          <BinisNoktasi>Istanbul</BinisNoktasi>
+          <InisNoktasi>Ardahan</InisNoktasi>
+        </Yolcu>
+      </Yolcular>
+    </Arac>
+    <Arac>
+      <Turu>Otobus</Turu>
+      <Plaka>15KH856</Plaka>
+      <Suruculer>
+        <Surucu>
+          <Adi>Burak Ozer</Adi>
+          <Yasi>33</Yasi>
+          <EhliyetSinifi>E</EhliyetSinifi>
+        </Surucu>
+      </Suruculer>
+      <Yolcular>
+        <Yolcu>
+          <Adi>Irem Demiryurek</Adi>
+          <BinisNoktasi>Burdur</BinisNoktasi>
+          <InisNoktasi>Erzurum</InisNoktasi>
+        </Yolcu>
+      </Yolcular>
+    </Arac>
+    <Arac>
+      <Turu>Kamyon</Turu>
+      <Plaka>06GT385</Plaka>
+      <OzluSoz>Kader satilmiyor ki iyisini alalim</OzluSoz>
+      <Suruculer>
+        <Surucu>
+          <Adi>Memati Kovan</Adi>
+          <Yasi>51</Yasi>
+          <EhliyetSinifi>E</EhliyetSinifi>
+        </Surucu>
+      </Suruculer>
+      <Yukler>
+        <Yuk>
+          <Icerik>Demir</Icerik>
+          <Agirlik>90</Agirlik>
+          <Hacim>85</Hacim>
+          <Alici>Ziya Seymen</Alici>
+          <BinisNoktasi>Isparta</BinisNoktasi>
+          <InisNoktasi>Ordu</InisNoktasi>
+        </Yuk>
+      </Yukler>
+    </Arac>
+    <Arac>
+      <Turu>Kamyon</Turu>
+      <Plaka>15DT848</Plaka>
+      <OzluSoz>Gonlunde yer yoksa ayakta da giderim</OzluSoz>
+      <Suruculer>
+        <Surucu>
+          <Adi>Eren Tas</Adi>
+          <Yasi>47</Yasi>
+          <EhliyetSinifi>E</EhliyetSinifi>
+        </Surucu>
+        <Surucu>
+          <Adi>Huzeyfe Haltas</Adi>
+          <Yasi>44</Yasi>
+          <EhliyetSinifi>E</EhliyetSinifi>
+        </Surucu>
+      </Suruculer>
+      <Yukler>
+        <Yuk>
+          <Icerik>Yogurt</Icerik>
+          <Agirlik>47</Agirlik>
+          <Hacim>56</Hacim>
+          <Alici>Tahsin Sezer</Alici>
+          <BinisNoktasi>Urfa</BinisNoktasi>
+          <InisNoktasi>Izmir</InisNoktasi>
+        </Yuk>
+      </Yukler>
+    </Arac>
+    <Arac>
+      <Turu>Otobus</Turu>
+      <Plaka>18VY045</Plaka>
+      <Suruculer>
+        <Surucu>
+          <Adi>Serhat Pala</Adi>
+          <Yasi>38</Yasi>
+          <EhliyetSinifi>E</EhliyetSinifi>
+        </Surucu>
+      </Suruculer>
+      <Yolcular>
+      </Yolcular>
+    </Arac>
+    <Arac>
+      <Turu>Otobus</Turu>
+      <Plaka>51GF159</Plaka>
+      <Suruculer>
+        <Surucu>
+          <Adi>Taner Rende</Adi>
+          <Yasi>32</Yasi>
+          <EhliyetSinifi>E</EhliyetSinifi>
+        </Surucu>
+        <Surucu>
+          <Adi>Tarik Ozden</Adi>
+          <Yasi>49</Yasi>
+          <EhliyetSinifi>E</EhliyetSinifi>
+        </Surucu>
+      </Suruculer>
+      <Yolcular>
+        <Yolcu>
+          <Adi>Irem Demiryurek</Adi>
+          <BinisNoktasi>Istanbul</BinisNoktasi>
+          <InisNoktasi>Burdur</InisNoktasi>
+        </Yolcu>
+        <Yolcu>
+          <Adi>Zeynep Diken</Adi>
+          <BinisNoktasi>Eskisehir</BinisNoktasi>
+          <InisNoktasi>Isparta</InisNoktasi>
+        </Yolcu>
+        <Yolcu>
+          <Adi>Burhan Yilmaz</Adi>
+          <BinisNoktasi>Istanbul</BinisNoktasi>
+          <InisNoktasi>Kutahya</InisNoktasi>
+        </Yolcu>
+        <Yolcu>
+          <Adi>Damla Damar</Adi>
+          <BinisNoktasi>Afyon</BinisNoktasi>
+          <InisNoktasi>Antalya</InisNoktasi>
+        </Yolcu>
+        <Yolcu>
+          <Adi>Ismail Kayacan</Adi>
+          <BinisNoktasi>Istanbul</BinisNoktasi>
+          <InisNoktasi>Antalya</InisNoktasi>
+        </Yolcu>
+        <Yolcu>
+          <Adi>Eren Karatekin</Adi>
+          <BinisNoktasi>Gebze</BinisNoktasi>
+          <InisNoktasi>Afyon</InisNoktasi>
+        </Yolcu>
+        <Yolcu>
+          <Adi>Zuleyha Yalcin</Adi>
+          <BinisNoktasi>Kocaeli</BinisNoktasi>
+          <InisNoktasi>Isparta</InisNoktasi>
+        </Yolcu>
+        <Yolcu>
+          <Adi>Yasin Kurunc</Adi>
+          <BinisNoktasi>Istanbul</BinisNoktasi>
+          <InisNoktasi>Kocaeli</InisNoktasi>
+        </Yolcu>
+      
+      </Yolcular>
+    </Arac>
+    <Arac>
+      <Turu>Kamyon</Turu>
+      <Plaka>07SHY25</Plaka>
+      <OzluSoz>Kamyonum Ford yollarda Lord...</OzluSoz>
+      <Suruculer>
+        <Surucu>
+          <Adi>Semih Tasyaka</Adi>
+          <Yasi>59</Yasi>
+          <EhliyetSinifi>E</EhliyetSinifi>
+        </Surucu>
+        <Surucu>
+          <Adi>Polat Kirici</Adi>
+          <Yasi>60</Yasi>
+          <EhliyetSinifi>E</EhliyetSinifi>
+        </Surucu>
+      </Suruculer>
+      <Yukler>
+        <Yuk>
+          <Icerik>Sut</Icerik>
+          <Agirlik>25</Agirlik>
+          <Hacim>65</Hacim>
+          <Alici>Kerim Karaca</Alici>
+          <BinisNoktasi>Antalya</BinisNoktasi>
+          <InisNoktasi>Edirne</InisNoktasi>
+        </Yuk>
+        <Yuk>
+          <Icerik>Ayran</Icerik>
+          <Agirlik>30</Agirlik>
+          <Hacim>25</Hacim>
+          <Alici>Huseyin Cankara</Alici>
+          <BinisNoktasi>Antalya</BinisNoktasi>
+          <InisNoktasi>Kutahya</InisNoktasi>
+        </Yuk>
+      </Yukler>
+    </Arac>
+    <Arac>
+      <Turu>Kamyon</Turu>
+      <Plaka>06GT385</Plaka>
+      <OzluSoz>Kader satilmiyor ki iyisini alalim</OzluSoz>
+      <Suruculer>
+        <Surucu>
+          <Adi>Memati Kovan</Adi>
+          <Yasi>51</Yasi>
+          <EhliyetSinifi>E</EhliyetSinifi>
+        </Surucu>
+      </Suruculer>
+      <Yukler>
+      </Yukler>
+    </Arac>
+</Araclar>
