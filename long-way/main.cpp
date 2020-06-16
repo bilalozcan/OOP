@@ -6,7 +6,7 @@
  *XML Parser kullanimi
  */
 #include<iostream>
-#include"odev8.h"
+#include"longWay.h"
 #include"tinyxml2.cpp"
 using namespace std;
 using namespace tinyxml2;
