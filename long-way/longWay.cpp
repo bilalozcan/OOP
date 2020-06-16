@@ -5,7 +5,7 @@
  *Exception Handling Yapilmai
  *XML Parser kullanimi
  */
-#include "odev8.h"
+#include "longWay.h"
 //Arac Default Constructer
 Arac::Arac()
 {
