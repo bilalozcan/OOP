@@ -1,7 +1,7 @@
 /*18120205035
- *Bilal ÖZCAN
- *Ödev9 template class çalışması */
-#include"odev9.h"
+ *Bilal Ã–ZCAN
+ *Ã–dev9 template class Ã§alÃ½Ã¾masÃ½ */
+#include"smartArray.h"
 
 /* bos bir akilli dizi olusturur*/
 template<class T>
@@ -12,7 +12,7 @@ AkilliDizi<T>::AkilliDizi()
 	kapasite = 0;
 }
 
-/* tek elamanlı ve eleman degeri i olan bir akilli dizi olusturur*/
+/* tek elamanlÃ½ ve eleman degeri i olan bir akilli dizi olusturur*/
 template<class T>
 AkilliDizi<T>::AkilliDizi(T i)
 {
@@ -74,7 +74,7 @@ AkilliDizi<T>::AkilliDizi(const AkilliDizi<T>& copyT)
 	}
 }
 
-//assigmnet opartörünün aşırı yüklenmesi
+//assigmnet opartÃ¶rÃ¼nÃ¼n aÃ¾Ã½rÃ½ yÃ¼klenmesi
 template<class T>
 AkilliDizi<T>& AkilliDizi<T>::operator=(const AkilliDizi<T>& assigmentT)
 {
@@ -92,7 +92,7 @@ AkilliDizi<T>& AkilliDizi<T>::operator=(const AkilliDizi<T>& assigmentT)
 	return *this;
 }
 
-/*Verilen indeks degerindeki elemanı döndürür. index elemanSayisindan buyukse hata mesaji yazdirir*/
+/*Verilen indeks degerindeki elemanÃ½ dÃ¶ndÃ¼rÃ¼r. index elemanSayisindan buyukse hata mesaji yazdirir*/
 template<class T>
 T& AkilliDizi<T>::operator[](const unsigned int index)
 {
@@ -103,7 +103,7 @@ T& AkilliDizi<T>::operator[](const unsigned int index)
 	return veri[index];
 }
 
-/*Verilen indeks degerindeki elemanı döndürür. index elemanSayisindan buyukse hata mesaji yazdirir*/
+/*Verilen indeks degerindeki elemanÃ½ dÃ¶ndÃ¼rÃ¼r. index elemanSayisindan buyukse hata mesaji yazdirir*/
 template<class T>
 T AkilliDizi<T>::operator[](const unsigned int index) const
 {
@@ -114,7 +114,7 @@ T AkilliDizi<T>::operator[](const unsigned int index) const
 	return veri[index];
 }
 
-/* AkilliDizi'ye bir T degeri ekleyebilenn + operatörü*/
+/* AkilliDizi'ye bir T degeri ekleyebilenn + operatÃ¶rÃ¼*/
 template<class T>
 AkilliDizi<T>& AkilliDizi<T>::operator+(T i)
 {
@@ -170,7 +170,7 @@ void AkilliDizi<T>::histogram(vector<Pair<T>>& hist) const
 	}
 }
 
-/* veri icinde i degerinden kac tane olduğunu sayar*/
+/* veri icinde i degerinden kac tane olduÃ°unu sayar*/
 template<class T>
 unsigned AkilliDizi<T>::kacTane(T a) const
 {
@@ -197,7 +197,7 @@ bool AkilliDizi<T>::varMi(T a) const
 	return false;
 }
 
-// Dizinin tum elemanlarini ekrana yazdıran << operatoru
+// Dizinin tum elemanlarini ekrana yazdÃ½ran << operatoru
 template<class T>
 ostream& operator << (ostream& out,const AkilliDizi<T>& dizi)
 {
