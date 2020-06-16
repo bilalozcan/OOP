@@ -1,12 +1,12 @@
 /*18120205035
- *Bilal ÖZCAN
- *Ödev9 template class çalışması 
- *İnt için , Double İçin, Char İçin ve Ogrenci class ı için ve bunlaırn dizi vector 
- *veya tek hali için butun fonksiyonlar asagıda denenmektedir*/
+ *Bilal Ã–ZCAN
+ *Ã–dev9 template class Ã§alÃ½Ã¾masÃ½ 
+ *Ãnt iÃ§in , Double ÃÃ§in, Char ÃÃ§in ve Ogrenci class Ã½ iÃ§in ve bunlaÃ½rn dizi vector 
+ *veya tek hali iÃ§in butun fonksiyonlar asagÃ½da denenmektedir*/
 #include<iostream>
 #include<vector>
-#include"odev9.h"
-#include"odev9.cpp"
+#include"smartArray.h"
+#include"smartArray.cpp"
 using namespace std;
 
 int main()
